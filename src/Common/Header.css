@@ -1,0 +1,31 @@
+.samplenavbar {
+  font-size: 16px;
+  font-weight: 400;
+  height: auto;
+  text-align: center;
+  /* justify-content: space-around; */
+  margin-left: auto;
+  padding: 0%;
+  box-sizing: border-box;
+  width: auto;
+}
+.samplenavbarfooter {
+  margin-right: auto;
+}
+
+.insidenavbar {
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.home {
+  font-weight: 400;
+  font-size: 16px;
+}
+.justify-content-end {
+  justify-content: end;
+}
+
+/* nav {
+  height: 8vh;
+} */
